@@ -1,0 +1,22 @@
+/* Generics */
+body{
+    margin: 0;
+}
+
+/* utilities */
+.container{
+    max-width: 1080px;
+    margin: 0 auto;
+}
+
+/* main header */
+#header1{
+    height: 100px;
+    background-color: rgb(50, 94, 225);
+    background-image: url(../img/pattern.png);
+    background-size: 300px;
+}
+#logo{
+    height: 50px;
+    margin-top: 25px;
+}
