@@ -32,6 +32,9 @@ ul{
 .text-small{
     font-size: 10px;
 }
+.half-row-table{
+    width: 50%;
+}
 
 /* main header */
 #header1{
@@ -43,4 +46,20 @@ ul{
 #logo{
     height: 50px;
     margin-top: 25px;
+}
+
+/* table */
+table{
+    border-collapse: collapse;
+}
+th{
+    color: white;
+    text-align: left;
+    background-color: blue;
+}
+tr{
+    background-color: aqua;
+}
+.even{
+    background-color: white;
 }
